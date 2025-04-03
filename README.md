@@ -1,17 +1,24 @@
 # Exploring-Datasets-with-pandas
-Objectives After completing this lab you will be able to:  Explore the dataset Pre-process dataset as required (may be for visualization)
+Objectives After completing this lab you will be able to:  
+Explore the dataset Pre-process dataset as required (may be for visualization)
 Exploring and pre-processing a dataset using Pandas
-Estimated time needed: 30 minutes
 
-Objectives
+#Estimated time needed: 30 minutes
+
+#Objectives
+
 After completing this lab you will be able to:
 
 Explore the dataset
+
 Pre-process dataset as required (may be for visualization)
-Introduction
+
+#Introduction
+
 The aim of this lab is to provide you a refresher on the Pandas library, so that you can pre-process and anlyse the datasets before applying data visualization techniques on it. This lab will work as acrash course on pandas. if you are interested in learning more about the pandas library, detailed description and explanation of how to use it and how to clean, munge, and process data stored in a pandas dataframe are provided in other IBM courses.
 
-Table of Contents
+#Table of Contents
+
 Exploring Datasets with pandas
 The Dataset: Immigration to Canada from 1980 to 2013
 pandas Basics
