@@ -6,7 +6,7 @@ Exploring and pre-processing a dataset using Pandas
 
 # Estimated time needed: 30 minutes
 
-#Objectives#
+# Objectives
 
 After completing this lab you will be able to:
 
@@ -33,7 +33,8 @@ pandas is a Python package providing fast, flexible, and expressive data structu
 
 The course heavily relies on pandas for data wrangling, analysis, and visualization. We encourage you to spend some time and familiarize yourself with the pandas API Reference: http://pandas.pydata.org/pandas-docs/stable/api.html.
 
-The Dataset: Immigration to Canada from 1980 to 2013 
+# The Dataset: Immigration to Canada from 1980 to 2013 
+
 Dataset Source: International migration flows to and from selected countries - The 2015 revision.
 
 The dataset contains annual data on the flows of international immigrants as recorded by the countries of destination. The data presents both inflows and outflows according to the place of birth, citizenship or place of previous / next residence both for foreigners and nationals. The current version presents data pertaining to 45 countries.
